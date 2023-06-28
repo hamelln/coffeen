@@ -35,12 +35,12 @@ export default function App({ Component, pageProps }: AppProps) {
             <meta name="googlebot" content="index,follow" />
             <meta name="description" content="커피를 알립니다" />
             <meta property="og:type" content="website" />
-            <meta property="og:title" content="COFFEN" />
+            <meta property="og:title" content="COFFEEN" />
             <meta property="og:description" content="커피를 알립니다" />
             <meta property="og:image" content="/images/og.png" />
             <meta property="og:image:alt" content="COFFEEN Thumbnail" />
             <meta property="og:locale" content="ko_KR" />
-            <meta property="og:site_name" content="COFFEN" />
+            <meta property="og:site_name" content="COFFEEN" />
             <meta property="og:locale:alternate" content="ko_KR" />
           </Head>
           <Layout>
